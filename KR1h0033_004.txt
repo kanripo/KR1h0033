@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 讀四書叢説
-#+DATE: 2015-09-23 09:41:07
+#+DATE: 2015-09-11 23:42:47.933931
+#+PROPERTY: ID KR1h0033
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 4
+#+PROPERTY: FILE SB05n0592-004讀四書叢説-卷四.
 <pb:KR1h0033_SBCK_004-1a>¶
 　朋來之樂有二意善固人所同有我旣得之而朋友相從亦皆知¶
 　　之能之道合志同人我無間自是可樂又我之樂雖自以爲得¶
@@ -1023,4 +1027,3 @@
 事君交友之道所當爲者固非一端此章以君友同言又同一數¶
 　字所以專主諌爭&KR0003;¶
 讀論語叢&KR0003;卷上¶
-

@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 讀四書叢説
-#+DATE: 2015-09-23 09:41:07
+#+DATE: 2015-09-11 23:42:47.744446
+#+PROPERTY: ID KR1h0033
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 0
+#+PROPERTY: FILE SB05n0592-000讀四書叢説-序.
 <pb:KR1h0033_SBCK_000-1a>¶
 吳師道讀四書叢説序¶
 讀四書叢説者金華白雲先生許君益之為其徒講説¶
@@ -410,4 +414,3 @@
 　　功者但要隨時隨事止遏物欲使不行開廓氣禀使通暢是皆¶
 <pb:KR1h0033_SBCK_000-15a>¶
 <pb:KR1h0033_SBCK_000-16a>¶
-

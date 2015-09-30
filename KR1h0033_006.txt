@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 讀四書叢説
-#+DATE: 2015-09-23 09:41:07
+#+DATE: 2015-09-11 23:42:48.049495
+#+PROPERTY: ID KR1h0033
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 6
+#+PROPERTY: FILE SB05n0592-006讀四書叢説-卷六.
 <pb:KR1h0033_SBCK_006-1a>¶
 讀論語叢&KR0003;卷下¶
 　　　　　　　　　　　　　東陽許謙¶
@@ -939,4 +943,3 @@
 <pb:KR1h0033_SBCK_006-29a>¶
 　可趨害不可避¶
 讀論語叢説卷下¶
-

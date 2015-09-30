@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 讀四書叢説
-#+DATE: 2015-09-23 09:41:07
+#+DATE: 2015-09-11 23:42:48.109008
+#+PROPERTY: ID KR1h0033
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 7
+#+PROPERTY: FILE SB05n0592-007讀四書叢説-卷七.
 <pb:KR1h0033_SBCK_007-1a>¶
 讀孟子叢&KR0003;卷上　東陽許謙¶
 　　　梁惠王上¶
@@ -621,4 +625,3 @@
 　興之¶
 讀孟子叢&KR0003;卷上¶
 <pb:KR1h0033_SBCK_007-19b>¶
-

@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 讀四書叢説
-#+DATE: 2015-09-23 09:41:07
+#+DATE: 2015-09-11 23:42:47.784334
+#+PROPERTY: ID KR1h0033
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 1
+#+PROPERTY: FILE SB05n0592-001讀四書叢説-卷一.
 <pb:KR1h0033_SBCK_001-1a>¶
 傳首章¶
 　康誥者周武王封弟康叔於衛而告之之書克明德言文王之能¶
@@ -396,4 +400,3 @@
 <pb:KR1h0033_SBCK_001-13b>¶
 ¶
 讀大學叢&KR0003;¶
-

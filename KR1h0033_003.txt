@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 讀四書叢説
-#+DATE: 2015-09-23 09:41:07
+#+DATE: 2015-09-11 23:42:47.883572
+#+PROPERTY: ID KR1h0033
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 3
+#+PROPERTY: FILE SB05n0592-003讀四書叢説-卷三.
 <pb:KR1h0033_SBCK_003-1a>¶
 讀中庸叢&KR0003;卷下　東陽許謙¶
 二十章¶
@@ -574,4 +578,3 @@
 　中庸始終合一之圗¶
 讀中庸叢&KR0003;卷下¶
 <pb:KR1h0033_SBCK_003-22a>¶
-

@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 讀四書叢説
-#+DATE: 2015-09-23 09:41:07
+#+DATE: 2015-09-11 23:42:47.831551
+#+PROPERTY: ID KR1h0033
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 2
+#+PROPERTY: FILE SB05n0592-002讀四書叢説-卷二.
 <pb:KR1h0033_SBCK_002-1a>¶
 讀中庸叢&KR0003;上¶
 　　　　　　　　　　　　　　東　陽　許謙¶
@@ -750,4 +754,3 @@
 　　先主¶
 論語專爲禘發其&KR0003;精中庸汎言&KR0021;祀其&KR0003;詳恐非記有詳略¶
 讀中庸叢&KR0003;卷上¶
-

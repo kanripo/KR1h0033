@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 讀四書叢説
-#+DATE: 2015-09-23 09:41:07
+#+DATE: 2015-09-11 23:42:48.163800
+#+PROPERTY: ID KR1h0033
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 8
+#+PROPERTY: FILE SB05n0592-008讀四書叢説-卷八.
 <pb:KR1h0033_SBCK_008-1a>¶
 讀孟子叢&KR0003;卷下　東陽許謙¶
 　　　滕文公上¶
@@ -434,4 +438,3 @@
 <pb:KR1h0033_SBCK_008-14b>¶
 　為信可尔倘異日　齋書目之二十&KR0195;盡出不更快乎¶
 　　庚申九月小晦日挑燈記　蕘圃黄丕烈¶
-
